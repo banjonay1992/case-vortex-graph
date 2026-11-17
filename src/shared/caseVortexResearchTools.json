@@ -1,0 +1,16 @@
+{
+  "search_records": "recordSearch",
+  "search_content": "contentResearch",
+  "open_content": "contentResearch",
+  "trace_content": "contentResearch",
+  "inspect_claims": "claimEvidence",
+  "inspect_source_reliability": "claimEvidence",
+  "analyze_case_claims": "claimEvidence",
+  "open_record": null,
+  "expand_relationships": null,
+  "correlate_context": null,
+  "compare_records": null,
+  "find_similar_cases": null,
+  "trace_connection": null,
+  "build_evidence_packet": null
+}
