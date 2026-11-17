@@ -26,5 +26,13 @@
     "typescript": "5.9.3",
     "vitest": "3.2.7"
   },
-  "author": "Nathan Cole (NAY Productions)"
+  "author": "Nathan Cole (NAY Productions)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/banjonay1992/case-vortex-graph.git"
+  },
+  "homepage": "https://github.com/banjonay1992/case-vortex-graph#readme",
+  "bugs": {
+    "url": "https://github.com/banjonay1992/case-vortex-graph/issues"
+  }
 }
