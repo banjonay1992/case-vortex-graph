@@ -34,5 +34,12 @@
   "homepage": "https://github.com/banjonay1992/case-vortex-graph#readme",
   "bugs": {
     "url": "https://github.com/banjonay1992/case-vortex-graph/issues"
-  }
+  },
+  "keywords": [
+    "graph",
+    "provenance",
+    "deterministic",
+    "evidence",
+    "typescript"
+  ]
 }
